@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>ABC Business</title>
+
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: Arial, sans-serif;
+      background: #f5f5f5;
+      color: #222;
+      line-height: 1.6;
+    }
+
+    header {
+      background: #1f4d3a;
+      color: white;
+      text-align: center;
+      padding: 60px 20px;
+    }
+
+    header h1 {
+      font-size: 20px;
+      margin-bottom: 10px;
+    }
+
+    header p {
+      font-size: 1.1rem;
+    }
+
+    main {
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 0 20px;
+    }
+
+    section {
+      background: white;
+      padding: 30px;
+      margin-bottom: 25px;
+      border-radius: 12px;
+      box-shadow: 0 3px 12px rgba(0, 0, 0, 0.08);
+    }
+
+    h2 {
+      color: #1f4d3a;
+      margin-bottom: 15px;
+    }
+
+    .hours p {
+      margin: 6px 0;
+    }
+
+    .services {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 15px;
+    }
+
+    .service {
+      background: #f0f5f2;
+      padding: 18px;
+      border-radius: 8px;
+    }
+
+    .whatsapp {
+      display: inline-block;
+      background: #25D366;
+      color: white;
+      text-decoration: none;
+      padding: 14px 24px;
+      border-radius: 8px;
+      font-weight: bold;
+      margin-top: 10px;
+    }
+
+    .whatsapp:hover {
+      opacity: 0.9;
+    }
+
+    footer {
+      text-align: center;
+      padding: 25px;
+      color: #666;
+    }
+  </style>
+</head>
+
+<body>
+
+  <header>
+    <h1>Akarsh Business</h1>
+    <p>Welcome to Akarsh Business!</p>
+  </header>
+
+  <main>
+
+    <section>
+      <h2>About Us</h2>
+      <p>
+        Welcome to ABC Business. We provide reliable products and
+        services with a focus on quality and customer satisfaction.
+      </p>
+    </section>
+
+    <section class="hours">
+      <h2>Opening Hours</h2>
+      <p><strong>Monday – Saturday:</strong> 9:00 AM – 8:00 PM</p>
+      <p><strong>Sunday:</strong> 10:00 AM – 4:00 PM</p>
+    </section>
+
+    <section>
+      <h2>Our Services</h2>
+
+      <div class="services">
+        <div class="service">
+          <h3>Service 1</h3>
+          <p>Short description of your first service.</p>
+        </div>
+
+        <div class="service">
+          <h3>Service 2</h3>
+          <p>Short description of your second service.</p>
+        </div>
+
+        <div class="service">
+          <h3>Service 3</h3>
+          <p>Short description of your third service.</p>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2>Contact Us</h2>
+      <p>Have a question? Message us directly on WhatsApp.</p>
+
+      <!-- Replace 919876543210 with your WhatsApp number -->
+      <a
+        class="whatsapp"
+        href="https://wa.me/919876543210"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Chat on WhatsApp
+      </a>
+    </section>
+
+  </main>
+
+  <footer>
+    &copy; 2026 ABC Business. All rights reserved.
+  </footer>
+
+</body>
+</html>
