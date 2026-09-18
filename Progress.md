@@ -92,3 +92,34 @@ See `Day-03/README.md`
 
 ### Status
 Complete
+
+
+---
+
+## Day 4 — Complete
+
+### Topics
+
+* Vibe Coding Principles
+* AI-assisted development
+* Scoped AI instructions
+* Inspecting and testing AI-generated changes
+
+### Learning
+
+Learned to use AI as a development assistant while keeping control of requirements, scope, testing, and verification. Practiced making a small, controlled website change without affecting existing functionality.
+
+### Evidence
+
+* Modified only the hero heading using a scoped AI instruction.
+* Inspected and tested the change.
+* Verified existing sections, buttons, layout, and styling remained unchanged.
+* Git checkpoint created and pushed to GitHub.
+
+### Detailed Learning
+
+See `Day-04/Readme.MD`
+
+### Status
+
+**Complete**
