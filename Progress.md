@@ -61,3 +61,34 @@ Complete
 
 ### Status
 Complete
+
+---
+
+## Day 3 — Complete
+
+### Topics
+- Software Thinking
+- Systems Thinking
+- Business Problem Solving
+- AI Fundamentals
+- Prompt Engineering
+
+### Key Patterns
+- Software Thinking: Problem → User → Need → Solution → Features → MVP → Test
+- Systems Thinking: User → Input → Processing → Data → Output → Failure
+- AI: AI understands → Software acts/checks → AI/Application responds
+- Prompt Engineering: Context → Goal → Requirements → Constraints → Expected Output
+
+### Evidence
+- Explained Software Thinking in my own words
+- Applied Systems Thinking to different problems
+- Distinguished AI, backend and database responsibilities
+- Created structured prompts from natural business requirements
+- Learned to define constraints and expected outputs
+- Learned to break complex AI tasks into meaningful stages
+
+### Detailed Notes
+See `Day-03/README.md`
+
+### Status
+Complete
