@@ -93,7 +93,6 @@ See `Day-03/README.md`
 ### Status
 Complete
 
-
 ---
 
 ## Day 4 — Complete
@@ -119,6 +118,39 @@ Learned to use AI as a development assistant while keeping control of requiremen
 ### Detailed Learning
 
 See `Day-04/Readme.MD`
+
+### Status
+
+**Complete**
+
+---
+
+## Day 5 — Complete
+
+### Topics
+
+* AI Code Editors
+* Cursor
+* AI-assisted development
+* Project inspection
+* Scoped changes
+* Testing and verification
+
+### Learning
+
+Learned to use an AI coding editor to first understand and inspect an existing project, then make only the necessary change and test the result. Practiced keeping AI changes scoped while maintaining developer control over the final result.
+
+### Evidence
+
+* Opened the existing project in Cursor.
+* Inspected the existing product section before editing.
+* Added a new Formal Pants product without changing unrelated sections.
+* Tested the updated webpage in the browser.
+* Verified the existing products, structure, layout, and styling were preserved.
+
+### Detailed Learning
+
+See `Day-05/Readme.MD`
 
 ### Status
 
