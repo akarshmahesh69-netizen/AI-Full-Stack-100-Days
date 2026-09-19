@@ -25,6 +25,9 @@
 - Modified AI-generated code
 - Tested the result
 
+### Detailed Notes
+[Read the Day 1 detailed notes](Day-01/README.MD)
+
 ### Status
 Complete
 
@@ -58,6 +61,9 @@ Complete
 - Explained the difference between HTML and a database
 - Explained why changing product data should not require changing page structure
 - Identified database/product data as the appropriate place for changing availability
+
+### Detailed Notes
+[Read the Day 2 detailed notes](Day-02/Readme.MD)
 
 ### Status
 Complete
@@ -117,7 +123,7 @@ Learned to use AI as a development assistant while keeping control of requiremen
 
 ### Detailed Learning
 
-See `Day-04/Readme.MD`
+See [Day 4 detailed learning notes](Day-04/Readme..md)
 
 ### Status
 
@@ -150,7 +156,7 @@ Learned to use an AI coding editor to first understand and inspect an existing p
 
 ### Detailed Learning
 
-See `Day-05/Readme.MD`
+See [Day 5 detailed learning notes](Day-05/Readme.md)
 
 ### Status
 
