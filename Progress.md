@@ -88,7 +88,7 @@ Complete
 - Learned to break complex AI tasks into meaningful stages
 
 ### Detailed Notes
-See `Day-03/README.md`
+[Read the Day 3 detailed notes](Day-03/Readme.MD)
 
 ### Status
 Complete
@@ -138,7 +138,7 @@ See `Day-04/Readme.MD`
 
 ### Learning
 
-Learned to use an AI coding editor to first understand and inspect an existing project, then make only the necessary change and test the result. Practiced keeping AI changes scoped while maintaining developer control over the final result.
+Learned to use an AI coding editor to first understand and inspect an existing project, then make only the necessary change and test the result. Practiced keeping AI changes scoped while maintaining developer control.
 
 ### Evidence
 
