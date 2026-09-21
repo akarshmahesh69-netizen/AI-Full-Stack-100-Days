@@ -155,3 +155,33 @@ See `Day-05/Readme.MD`
 ### Status
 
 **Complete**
+
+---
+
+## Day 6 — Complete
+
+### Topics
+
+* Debugging mindset
+* Expected vs Actual behavior
+* Finding the source of incorrect content
+* Testing
+
+### Learning
+
+Practiced identifying a content bug by comparing expected and actual behavior, locating its source in HTML, fixing it, and verifying the result.
+
+### Evidence
+
+* Found placeholder content in the Services section.
+* Replaced it with relevant B2B services.
+* Tested the updated website in the browser.
+* Distinguished a content bug from a code bug.
+
+### Detailed Learning
+
+See `Day-06/Readme.MD`
+
+### Status
+
+**Complete**
