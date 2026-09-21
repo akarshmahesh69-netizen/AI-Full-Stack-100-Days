@@ -25,6 +25,9 @@
 - Modified AI-generated code
 - Tested the result
 
+### Detailed Notes
+[Read the Day 1 detailed notes](Day-01/README.MD)
+
 ### Status
 Complete
 
@@ -59,6 +62,9 @@ Complete
 - Explained why changing product data should not require changing page structure
 - Identified database/product data as the appropriate place for changing availability
 
+### Detailed Notes
+[Read the Day 2 detailed notes](Day-02/Readme.MD)
+
 ### Status
 Complete
 
@@ -88,7 +94,7 @@ Complete
 - Learned to break complex AI tasks into meaningful stages
 
 ### Detailed Notes
-See `Day-03/README.md`
+[Read the Day 3 detailed notes](Day-03/Readme.MD)
 
 ### Status
 Complete
@@ -117,7 +123,7 @@ Learned to use AI as a development assistant while keeping control of requiremen
 
 ### Detailed Learning
 
-See `Day-04/Readme.MD`
+See [Day 4 detailed learning notes](Day-04/Readme..md)
 
 ### Status
 
@@ -138,7 +144,7 @@ See `Day-04/Readme.MD`
 
 ### Learning
 
-Learned to use an AI coding editor to first understand and inspect an existing project, then make only the necessary change and test the result. Practiced keeping AI changes scoped while maintaining developer control over the final result.
+Learned to use an AI coding editor to first understand and inspect an existing project, then make only the necessary change and test the result. Practiced keeping AI changes scoped while maintaining developer control.
 
 ### Evidence
 
@@ -150,7 +156,7 @@ Learned to use an AI coding editor to first understand and inspect an existing p
 
 ### Detailed Learning
 
-See `Day-05/Readme.MD`
+See [Day 5 detailed learning notes](Day-05/Readme.md)
 
 ### Status
 
