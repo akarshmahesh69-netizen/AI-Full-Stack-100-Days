@@ -191,3 +191,31 @@ See `Day-06/Readme.MD`
 ### Status
 
 **Complete**
+
+
+---
+
+## Day 7 — Complete
+
+### Topics
+- GitHub Copilot
+- AI-assisted development
+- Business context
+- AI output evaluation
+- Testing
+
+### Learning
+Practiced using Copilot with business context, evaluating its suggestions, making a controlled website change, and testing the result.
+
+### Evidence
+- Evaluated Copilot's initial retail-focused suggestion.
+- Provided B2B manufacturer/wholesaler context.
+- Selected relevant B2B services.
+- Implemented and tested the website changes.
+- Explained why business context affects AI output.
+
+### Detailed Learning
+See `Day-07/Readme.MD`
+
+### Status
+**Complete**
