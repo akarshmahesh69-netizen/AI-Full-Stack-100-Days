@@ -95,6 +95,8 @@
   </style>
 </head>
 
+
+
 <body>
 
   <header>
@@ -123,11 +125,27 @@
       <h2>Trending Products</h2>
       <p>Explore Our latest and most popular clothing.</p>
 
-      <li>T-Shirt — ₹999 — Sizes: S, M, L — Available</li>
-      <li>Jeans — ₹1,499 — Sizes: M, L, XL — Available</li>
-      <li>Hoodie — ₹1,999 — Sizes: M, L, XL — Available</li>
-      <li>Formal Pants — ₹1,799 — Sizes: M, L, XL — Available</li>
-      </ul>
+      <div class="filters">
+  <button onclick="filterProducts('All')">All</button>
+  <button onclick="filterProducts('Casual')">Casual</button>
+  <button onclick="filterProducts('Formal')">Formal</button>
+</div>
+
+      <div class="product" data-category="Casual">
+  T-Shirt — ₹999 — Sizes: S, M, L — Available
+</div>
+
+<div class="product" data-category="Casual">
+  Jeans — ₹499 — Sizes: M, L, XL — Available
+</div>
+
+<div class="product" data-category="Formal">
+  formal shirts  — ₹999 — Sizes: M, L, XL — Available
+</div>
+
+<div class="product" data-category="Formal">
+  Formal Pants — ₹799 — Sizes: M, L, XL — Available
+</div>
       <button> Enquire About Products </button>
     </section>
 
@@ -167,6 +185,20 @@
   <footer>
     &copy; 2026 SCNC. All rights reserved.
   </footer>
+
+  <script>
+function filterProducts(category) {
+  const products = document.querySelectorAll('.product');
+
+  products.forEach(product => {
+    if (category === 'All' || product.dataset.category === category) {
+      product.style.display = 'block';
+    } else {
+      product.style.display = 'none';
+    }
+  });
+}
+</script>
 
 </body>
 
