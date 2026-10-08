@@ -92,6 +92,32 @@
       padding: 25px;
       color: #666;
     }
+  #enquiryForm {
+    max-width: 500px;
+    margin: 30px auto;
+    padding: 25px;
+    background: #f5f1e8;
+    border-radius: 12px;
+}
+
+#enquiryForm h3 {
+    margin-bottom: 20px;
+}
+
+#enquiryForm input {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 12px;
+    box-sizing: border-box;
+}
+
+#enquiryForm button {
+    padding: 12px 20px;
+    cursor: pointer;
+}
+  
+  
+  
   </style>
 </head>
 
@@ -147,7 +173,17 @@
   Formal Pants — ₹799 — Sizes: M, L, XL — Available
 </div>
       <button id="enquiryBtn">Enquire About Products</button>
+    <div id="enquiryForm" style="display: none;">
+  <h3>Wholesale Enquiry</h3>
+
+    <input id="customerName" type="text" placeholder="Your Name">
+    <input id="businessName" type="text" placeholder="Business Name">
+<input id="phoneNumber" type="tel" placeholder="Phone Number">
+
+   <button id="submitEnquiry" type="button">Submit Enquiry</button>
+</div>
     </section>
+    
 
     <section>
       <h2>Our Services</h2>
@@ -199,8 +235,27 @@ function filterProducts(category) {
   });
 }
 const enquiryButton = document.getElementById("enquiryBtn");
+
 enquiryButton.addEventListener("click", function() {
-    alert("Thank you! We will get back to you soon.");
+    document.getElementById("enquiryForm").style.display = "block";
+});
+
+const customerName = document.getElementById("customerName");
+const businessName = document.getElementById("businessName");
+const phoneNumber = document.getElementById("phoneNumber");
+
+const submitEnquiry = document.getElementById("submitEnquiry");
+
+submitEnquiry.addEventListener("click", function() {
+    const name = customerName.value;
+    const business = businessName.value;
+    const phone = phoneNumber.value;
+
+    alert(
+        "Thank you, " + name +
+        "!\nBusiness: " + business +
+        "\nPhone: " + phone
+    );
 });
 </script>
 

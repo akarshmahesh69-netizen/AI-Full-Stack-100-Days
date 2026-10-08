@@ -219,3 +219,55 @@ See `Day-07/Readme.MD`
 
 ### Status
 **Complete**
+
+
+Day 9 — JavaScript Events
+Status: Complete
+
+Built and tested a JavaScript click event interaction using the existing "Enquire About Products" button.
+
+Learned:
+- JavaScript events
+- click events
+- addEventListener()
+- getElementById()
+- JavaScript functions
+- Connecting HTML elements with JavaScript
+
+Project evidence:
+- SCNC B2B website
+- "Enquire About Products" button click interaction
+- JavaScript alert response
+
+**### Detailed Learning**
+See `Day-09/Readme.MD`
+
+**### Status**
+**Complete**
+
+Day 10 — JavaScript Forms & User Input
+Status: Complete
+
+Built and tested an interactive enquiry form using JavaScript.
+
+Learned:
+- Showing and hiding HTML elements with JavaScript
+- Form inputs
+- getElementById()
+- .value
+- Variables with const
+- Reading multiple user inputs
+- addEventListener()
+- Using user input in JavaScript
+
+Project evidence:
+- SCNC B2B website
+- Enquire About Products form
+- Name, Business Name and Phone Number inputs
+- Personalized JavaScript confirmation
+
+**### Detailed Learning**
+See `Day-10/Readme.MD`
+
+**### Status**
+**Complete**
