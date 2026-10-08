@@ -221,53 +221,97 @@ See `Day-07/Readme.MD`
 **Complete**
 
 
-Day 9 — JavaScript Events
-Status: Complete
+## **Day 8 — Complete**
 
-Built and tested a JavaScript click event interaction using the existing "Enquire About Products" button.
+### Topics
 
-Learned:
+- JavaScript fundamentals
+- DOM selection
+- querySelectorAll()
+- forEach()
+- if conditions
+- data-category
+- style.display
+
+### Learning
+
+Built and tested an interactive product category filter using JavaScript.
+
+### Evidence
+
+- SCNC B2B website
+- All / Casual / Formal product filtering
+- Used `data-category` to identify product categories.
+- Used JavaScript to show and hide products based on the selected category.
+
+### Detailed Learning
+
+See `Day-08/Readme.MD`
+
+### Status
+
+Complete
+
+
+## **Day 9 — Complete**
+
+### Topics
+
 - JavaScript events
-- click events
+- Click events
 - addEventListener()
 - getElementById()
 - JavaScript functions
 - Connecting HTML elements with JavaScript
 
-Project evidence:
+### Learning
+
+Built and tested a JavaScript click event interaction using the existing "Enquire About Products" button.
+
+### Evidence
+
 - SCNC B2B website
 - "Enquire About Products" button click interaction
 - JavaScript alert response
 
-**### Detailed Learning**
+### Detailed Learning
+
 See `Day-09/Readme.MD`
 
-**### Status**
-**Complete**
+### Status
 
-Day 10 — JavaScript Forms & User Input
-Status: Complete
+Complete
+
+
+## **Day 10 — Complete**
+
+### Topics
+
+- JavaScript form interaction
+- JavaScript events and event listeners
+- Showing and hiding HTML elements
+- getElementById()
+- Input `.value`
+- Variables using `const`
+- Reading user input
+- Connecting HTML, CSS and JavaScript
+- Basic form interaction and testing
+
+### Learning
 
 Built and tested an interactive enquiry form using JavaScript.
 
-Learned:
-- Showing and hiding HTML elements with JavaScript
-- Form inputs
-- getElementById()
-- .value
-- Variables with const
-- Reading multiple user inputs
-- addEventListener()
-- Using user input in JavaScript
+### Evidence
 
-Project evidence:
 - SCNC B2B website
 - Enquire About Products form
 - Name, Business Name and Phone Number inputs
 - Personalized JavaScript confirmation
 
-**### Detailed Learning**
+### Detailed Learning
+
 See `Day-10/Readme.MD`
 
-**### Status**
-**Complete**
+### Status
+
+Complete
