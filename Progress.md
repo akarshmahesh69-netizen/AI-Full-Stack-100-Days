@@ -315,3 +315,38 @@ See `Day-10/Readme.MD`
 ### Status
 
 Complete
+
+## **Day 11 — Complete**
+
+### Topics
+
+- JavaScript form validation
+- `.trim()` and `.value`
+- `if` conditions
+- Logical OR operator (`||`)
+- Regular expressions
+- `.test()` and NOT operator (`!`)
+- `return` and validation flow
+- Debugging and testing
+
+### Learning
+
+Implemented and tested JavaScript validation for the existing SCNC B2B wholesale enquiry form. Learned to reject empty required fields and phone numbers that do not contain exactly 10 digits.
+
+### Evidence
+
+- Fixed the enquiry form opening interaction.
+- Removed the duplicate submit event listener.
+- Added customer name and business name validation.
+- Added phone-number validation.
+- Tested invalid and valid input.
+- Verified the existing product category filter still works.
+- Explained the validation flow in my own words.
+
+### Detailed Learning
+
+See `Day-11/Readme.MD`
+
+### Status
+
+**Complete**
